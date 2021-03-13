@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Paint", "Paint.vcxproj", "{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}.Debug|x64.ActiveCfg = Debug|x64
+		{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}.Debug|x64.Build.0 = Debug|x64
+		{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}.Debug|x86.Build.0 = Debug|Win32
+		{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}.Release|x64.ActiveCfg = Release|x64
+		{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}.Release|x64.Build.0 = Release|x64
+		{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}.Release|x86.ActiveCfg = Release|Win32
+		{DCBA4C5D-CA24-4629-9343-1F31A4CD2619}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141B18B6-C623-473D-B5A9-31990C004F6C}
+	EndGlobalSection
+EndGlobal
